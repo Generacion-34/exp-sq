@@ -1,5 +1,5 @@
 {
-  "name": "exp-sq-g32",
+  "name": "exp-sq",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -21,8 +21,5 @@
   },
   "devDependencies": {
     "nodemon": "3.0.3"
-  },
-  "overrides": {
-    "semver": "^7.5.3"
   }
 }
