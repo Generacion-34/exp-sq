@@ -1,3 +1,5 @@
+require('../src/models')
+
 const app = require('./app');
 const sequelize = require('./utils/connection');
 
